@@ -26,7 +26,7 @@ server.on('request', (req, res) => {
       <title>Hello World</title>
       <style>
       body {
-          background-color: blue;
+          background-color: green;
       }
       </style>
     </head>
