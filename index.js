@@ -22,7 +22,13 @@ server.on('request', (req, res) => {
     <html lang="en">
     <head>
       <meta charset="UTF-8">
+      <meta http-equiv="refresh" content="5">
       <title>Hello World</title>
+      <style>
+      body {
+          background-color: blue;
+      }
+      </style>
     </head>
     <body>
       Hello World
